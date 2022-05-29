@@ -12,8 +12,8 @@ public class DatasourceConfig {
     @Bean
     public DataSource getDataSource() {
         DataSourceBuilder<?> builder = DataSourceBuilder.create();
-        builder.username("");
-        builder.password("");
+        builder.username("username");
+        builder.password("password");
         builder.url("jdbc:h2:mem:test");
         builder.driverClassName("org.h2.Driver");
 
