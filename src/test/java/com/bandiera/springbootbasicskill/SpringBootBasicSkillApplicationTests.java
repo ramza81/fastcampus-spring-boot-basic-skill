@@ -1,10 +1,10 @@
-package com.bandiera.springbootpractice;
+package com.bandiera.springbootbasicskill;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootPracticeApplicationTests {
+class SpringBootBasicSkillApplicationTests {
 
 	@Test
 	void contextLoads() {

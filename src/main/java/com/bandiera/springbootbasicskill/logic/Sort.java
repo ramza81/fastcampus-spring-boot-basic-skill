@@ -1,4 +1,4 @@
-package com.bandiera.springbootpractice.logic;
+package com.bandiera.springbootbasicskill.logic;
 
 import java.util.List;
 

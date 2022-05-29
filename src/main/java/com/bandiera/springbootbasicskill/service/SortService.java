@@ -1,6 +1,6 @@
-package com.bandiera.springbootpractice.service;
+package com.bandiera.springbootbasicskill.service;
 
-import com.bandiera.springbootpractice.logic.Sort;
+import com.bandiera.springbootbasicskill.logic.Sort;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
