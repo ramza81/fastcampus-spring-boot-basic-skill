@@ -1,6 +1,6 @@
-package com.bandiera.springbootpractice.controller;
+package com.bandiera.springbootbasicskill.controller;
 
-import com.bandiera.springbootpractice.service.SortService;
+import com.bandiera.springbootbasicskill.service.SortService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
